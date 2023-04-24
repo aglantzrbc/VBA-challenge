@@ -1,6 +1,6 @@
 # VBA-challenge - module 2 (Excel VBA macros) - Adam Glantz 20230423pm
 
-Overview of Project:
+Overview of project:
 
 To loop through long tables of daily stock results to poputate summary tables that allow the viewer to see the relevant aggregate metrics at a glance.
 
