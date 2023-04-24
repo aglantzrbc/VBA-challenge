@@ -1,4 +1,4 @@
-# VBA-challenge - module 2 (Excel VBA macros) - Adam Glantz 20230423pm
+# VBA-challenge - module 2 (Excel VBA macros: stock metrics) - Adam Glantz
 
 Overview of project:
 
