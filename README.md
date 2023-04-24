@@ -1,6 +1,12 @@
 # VBA-challenge - module 2 (Excel VBA macros) - Adam Glantz 20230423pm
 
-The challenge assignment solution is my own work. I haven't see the code for any other attempts at a solution to this challenge besides mine.
+Overview of Project:
+To loop through long tables of daily stock results to poputate summary tables that allow the viewer to see the relevant sggregate metrics at a glance.
+
+Explain the purpose of this analysis.
+This permits the user to obtain summary statistics on stock performance no matter the year with the push of a button.
+
+Sources consulted
 
 I used code from Rutgers Boot Camps LLC Data Science assignments and presentations (RUT-VIRT-DATA-PT-04-2023-U-LOLC), particularly the 06-Stu_CreditCardChecker-CellComparison assignment (https://git.bootcampcontent.com/Rutgers-University/RUT-VIRT-DATA-PT-04-2023-U-LOLC/-/tree/main/02-VBA-Scripting/3/Activities/06-Stu_CreditCardChecker-CellComparison) available on Rutgers' GitLab space. I usually modified the code for my own circumstances.
 
