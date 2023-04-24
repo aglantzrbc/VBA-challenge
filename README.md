@@ -2,11 +2,11 @@
 
 Overview of Project:
 
-To loop through long tables of daily stock results to poputate summary tables that allow the viewer to see the relevant sggregate metrics at a glance.
+To loop through long tables of daily stock results to poputate summary tables that allow the viewer to see the relevant aggregate metrics at a glance.
 
-Explain the purpose of this analysis:
+Explain the purpose of this task:
 
-This permits the user to obtain summary statistics on stock performance no matter the year with the push of a button.
+This macro permits the user to obtain summary statistics on stock performance no matter the year with the push of a button.
 
 Sources consulted:
 
